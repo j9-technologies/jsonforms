@@ -1,13 +1,13 @@
 {
   "name": "@jsonforms/core",
-  "version": "2.3.2",
+  "version": "2.3.2-swp.2",
   "description": "Core module of JSON Forms",
   "repository": "https://github.com/eclipsesource/jsonforms",
   "bugs": "https://github.com/eclipsesource/jsonforms/issues",
   "homepage": "http://jsonforms.io/",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://nexus.streamweaver.com/repository/swp-npm"
   },
   "directories": {
     "src": "src",
