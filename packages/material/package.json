@@ -7,7 +7,7 @@
   "homepage": "http://jsonforms.io/",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://nexus.streamweaver.com/repository/swp-npm"
+    "registry": "https://nexus.streamweaver.io/repository/swp-npm"
   },
   "directories": {
     "example": "example",
